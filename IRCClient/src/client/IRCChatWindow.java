@@ -418,7 +418,7 @@ public class IRCChatWindow extends javax.swing.JFrame {
     }
 
     private void nicknameFieldActionPerformed(java.awt.event.ActionEvent evt) {
-        // TODO add your handling code here:
+         // TODO add your handling code here:
     }
 
     private void soundToggleActionPerformed(java.awt.event.ActionEvent evt) {
